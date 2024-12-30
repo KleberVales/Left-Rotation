@@ -9,3 +9,6 @@ Complete the rotateLeft function in the editor below.
 - Parameters:
   * int d: the number of left rotations to perform.
   * int arr[n]: the array to rotate.
+ 
+- Returns:
+  * int[n]: the rotated array.
