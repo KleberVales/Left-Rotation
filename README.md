@@ -5,3 +5,7 @@ A left rotation operation on an array of size 𝑛 shifts each of the array's el
 ## Function Description
 
 Complete the rotateLeft function in the editor below.
+
+- Parameters:
+  * int d: the number of left rotations to perform.
+  * int arr[n]: the array to rotate.
