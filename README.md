@@ -14,3 +14,4 @@ Complete the rotateLeft function in the editor below.
   * int[n]: the rotated array.
  
 ## Input Format
+- The first line contains two space-separated integers, 𝑛 (the size of the array) and 𝑑 (the number of rotations).
