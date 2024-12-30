@@ -12,3 +12,5 @@ Complete the rotateLeft function in the editor below.
  
 - Returns:
   * int[n]: the rotated array.
+ 
+## Input Format
