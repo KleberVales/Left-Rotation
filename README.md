@@ -16,3 +16,6 @@ Complete the rotateLeft function in the editor below.
 ## Input Format
 - The first line contains two space-separated integers, 𝑛 (the size of the array) and 𝑑 (the number of rotations).
 - The second line contains 𝑛 space-separated integers that describe the array.
+
+## Constraints
+- The array size 𝑛 and 𝑑 are positive integers.
