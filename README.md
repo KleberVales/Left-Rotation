@@ -19,3 +19,10 @@ Complete the rotateLeft function in the editor below.
 
 ## Constraints
 - The array size 𝑛 and 𝑑 are positive integers.
+
+### Sample Input
+```
+5 4
+1 2 3 4 5
+
+```
